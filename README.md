@@ -27,5 +27,5 @@
 * Make a pull request.
 
 ## Screenshot 
-<img align="left" src="https://user-images.githubusercontent.com/62820550/228632428-0610e3dd-bca3-4c16-b62a-7a38da4406d0.png" width="480px" height="600px"/>
-<img align="right" src="https://user-images.githubusercontent.com/62820550/228632447-e6867058-85e8-408b-a964-dcb4829f7fda.png" width="480px" height="600px"/>
+<img align="left" src="https://user-images.githubusercontent.com/62820550/228632428-0610e3dd-bca3-4c16-b62a-7a38da4406d0.png" width="380px" height="450px"/>
+<img align="right" src="https://user-images.githubusercontent.com/62820550/228632447-e6867058-85e8-408b-a964-dcb4829f7fda.png" width="380px" height="450px"/>
