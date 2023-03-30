@@ -26,6 +26,13 @@
 * Push the changes.
 * Make a pull request.
 
-## Screenshot 
+## Screenshot
+<kbd>
+
+![State Name Gif (1)](https://user-images.githubusercontent.com/62820550/228886711-77359e86-0417-4663-ab52-08d32c2d562a.gif)
+
+</kbd>
+
+
 <img align="left" src="https://user-images.githubusercontent.com/62820550/228632428-0610e3dd-bca3-4c16-b62a-7a38da4406d0.png" width="380px" height="450px"/>
 <img align="right" src="https://user-images.githubusercontent.com/62820550/228632447-e6867058-85e8-408b-a964-dcb4829f7fda.png" width="380px" height="450px"/>
