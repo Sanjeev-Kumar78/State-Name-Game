@@ -1,6 +1,7 @@
 ## State Name Game
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ### • Just a game for learning names of states in India.
 
 ### • Built with Python:
