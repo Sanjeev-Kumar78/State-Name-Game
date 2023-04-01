@@ -17,7 +17,12 @@
 ## How to add more states:
 * To add more states, add the name of the state in the indian_states.csv file.
 * The name of the state should be in the same format as the other states.
-* ### File should be sorted according to alphabetical order by name of states.
+### File should be sorted according to alphabetical order by name of states.
+* Code Here: 
+<a href="https://colab.research.google.com/drive/1J3fZUqeQyZBKJ3RGutnQB2FiwHN3ulEf?usp=sharing"><button>
+![Code For Sorting](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+</button></a>
 
 ## How to pull request:
 * Fork the repository.
